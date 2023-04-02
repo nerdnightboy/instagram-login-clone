@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "instagram-login-clone",
-    "slug": "instagram-login-clone",
+    "name": "clone-instagram-login",
+    "slug": "clone-instagram-login",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
